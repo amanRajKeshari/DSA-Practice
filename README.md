@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0143-reorder-list) |
+| [0402-remove-k-digits](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0402-remove-k-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -27,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/amanRajKeshari/DSA-Practice/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
