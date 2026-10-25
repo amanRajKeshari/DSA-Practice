@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/amanRajKeshari/DSA-Practice/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Sliding Window
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -40,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0402-remove-k-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
