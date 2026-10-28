@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/amanRajKeshari/DSA-Practice/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Sliding Window
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
