@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/amanRajKeshari/DSA-Practice/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## String
 |  |
 | ------- |
 | [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
