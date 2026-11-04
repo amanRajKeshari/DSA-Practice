@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -87,6 +88,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
