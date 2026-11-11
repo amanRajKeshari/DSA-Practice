@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2270-number-of-ways-to-split-array) |
+| [2574-left-and-right-sum-differences](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/amanRajKeshari/DSA-Practice/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Sliding Window
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2270-number-of-ways-to-split-array) |
+| [2574-left-and-right-sum-differences](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 ## Design
 |  |
 | ------- |
