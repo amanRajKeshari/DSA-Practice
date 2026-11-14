@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0143-reorder-list) |
+| [0706-design-hashmap](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0706-design-hashmap) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
@@ -115,8 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0706-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
