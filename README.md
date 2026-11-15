@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -127,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0706-design-hashmap) |
+## Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
