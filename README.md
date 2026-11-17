@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0143-reorder-list) |
+| [0349-intersection-of-two-arrays](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0706-design-hashmap) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Function
 |  |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
