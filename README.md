@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Greedy
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
