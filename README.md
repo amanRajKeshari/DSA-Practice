@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0804-unique-morse-code-words) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
