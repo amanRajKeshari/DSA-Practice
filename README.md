@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0804-unique-morse-code-words) |
+| [1207-unique-number-of-occurrences](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/amanRajKeshari/DSA-Practice/tree/master/0804-unique-morse-code-words) |
+| [1207-unique-number-of-occurrences](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
