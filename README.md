@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/amanRajKeshari/DSA-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3360-stone-removal-game](https://github.com/amanRajKeshari/DSA-Practice/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/amanRajKeshari/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/amanRajKeshari/DSA-Practice/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
